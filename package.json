@@ -1,0 +1,17 @@
+{
+    "name": "fatostatus",
+    "version": "1.0.0",
+    "description": "Fato Status",
+    "prefix": "-",
+    "embedcolor": "#F51616",
+    "welcomechannel": "789928485099536385",
+    "ticketperms": "808444125237215253",
+    "ticketcategory": "789928476395700225",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "discord.js": "^12.5.1",
+        "fs": "^0.0.1-security"
+    }
+}
