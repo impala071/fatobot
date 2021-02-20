@@ -1,4 +1,3 @@
-const TOKEN = "ODEyODAyODI1OTc2Njc2MzU0.YDGDng.7CxRDly8b35NWovxdm-PVRaHkss"
 const fs = require('fs');
 const Discord = require('discord.js');
 const { prefix, embedcolor, welcomechannel } = require('./package.json')
@@ -62,4 +61,4 @@ client.on("guildMemberRemove", async member => {
   member.guild.channels.cache.get(welcomechannel).send(embed)
 });
   
-client.login(TOKEN);
+client.login("ODEyODAyODI1OTc2Njc2MzU0.YDGDng.7CxRDly8b35NWovxdm-PVRaHkss");
