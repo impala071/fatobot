@@ -1,4 +1,4 @@
-const TOKEN = "ODEyODAyODI1OTc2Njc2MzU0.YDGDng.Rq24wfRjsiTrKzdEdKdVC2L-81c"
+const TOKEN = "ODEyODAyODI1OTc2Njc2MzU0.YDGDng.7CxRDly8b35NWovxdm-PVRaHkss"
 const fs = require('fs');
 const Discord = require('discord.js');
 const { prefix, embedcolor, welcomechannel } = require('./package.json')
